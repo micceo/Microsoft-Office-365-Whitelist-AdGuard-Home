@@ -102,3 +102,9 @@ keydelivery.mediaservices.windows.net
 streaming.mediaservices.windows.net
 rarbgunblock.com
 browser.pipe.aria.microsoft.com
+lb-140-82-121-3-fra.github.com
+lb-140-82-121-4-fra.github.com
+cdn-185-199-110-133.github.com
+cdn-185-199-108-133.github.com
+cdn-185-199-109-133.github.com
+cdn-185-199-111-133.github.com
