@@ -100,7 +100,6 @@ graph.windows.net
 login.windows.net
 keydelivery.mediaservices.windows.net
 streaming.mediaservices.windows.net
-rarbgunblock.com
 browser.pipe.aria.microsoft.com
 lb-140-82-121-3-fra.github.com
 lb-140-82-121-4-fra.github.com
