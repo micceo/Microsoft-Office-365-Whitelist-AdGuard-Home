@@ -1,6 +1,6 @@
 # doh tillåt
 
-# 
+# https://raw.githubusercontent.com/micceo/Microsoft-Office-365-Whitelist-AdGuard-Home/main/doh_allow.txt
 dns.quad9.net
 dns9.quad9.net
 dns10.quad9.net
