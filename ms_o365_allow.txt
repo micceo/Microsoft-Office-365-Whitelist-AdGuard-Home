@@ -1,7 +1,30 @@
 # https://learn.microsoft.com/en-us/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide
+# och lite custom
 
 ### custom
 *.github.com
+*.githubusercontent.com
+cdn.cookielaw.org # trimble
+data.flurry.com
+
+# ikea
+data.logentries.com
+webhook.logentries.com
+
+# androidtvchannels-pa.googleapis.com
+# acompli.helpshift.com
+# sdk.hockeyapp.net
+# analytics.localytics.com
+# api.localytics.com
+# web.localytics.com
+# webanalytics.localytics.com
+# app-sj05.marketo.com
+# log.optimizely.com
+# *.sfbassets.com
+# sfbassets.com
+# *.urlp.sfbassets.com
+# urlp.sfbassets.com
+# skypemaprdsitus.trafficmanager.net
 
 ###  Exchange Online
 *.mail.protection.outlook.com
