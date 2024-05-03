@@ -1,0 +1,25 @@
+# doh tillåt
+
+# 
+dns9.quad9.net
+dns11.quad9.net
+dns10.quad9.net
+dns9.quad9.net
+dns10.quad9.net
+dns11.quad9.net
+dns12.quad9.net
+dns.quad9.net
+
+# "9.9.9.9","9.9.9.11","9.9.9.10","149.112.112.9","149.112.112.10","149.112.112.11","149.112.112.12","149.112.112.112" | % {Resolve-DnsName $_}
+# 9.9.9.9
+# 9.9.9.11
+# 9.9.9.10
+# 149.112.112.9
+# 149.112.112.10
+# 149.112.112.11
+# 149.112.112.12
+# 149.112.112.112
+
+# kombineras med
+# doh blockera
+# https://raw.githubusercontent.com/wranders/doh-list/master/doh-list.txt
