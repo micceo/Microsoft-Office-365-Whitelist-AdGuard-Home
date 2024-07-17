@@ -4,6 +4,7 @@
 ### custom
 *.github.com
 *.githubusercontent.com
+*.signal.org
 cdn.cookielaw.org # trimble
 data.flurry.com
 
