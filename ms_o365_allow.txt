@@ -6,6 +6,7 @@
 *.githubusercontent.com
 cdn.cookielaw.org # trimble
 data.flurry.com
+*.signal.org
 
 # ikea
 data.logentries.com
