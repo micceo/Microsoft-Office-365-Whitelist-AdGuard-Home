@@ -43,6 +43,7 @@
 @@||outlook.office.com^$important
 @@||outlook.office365.com^$important
 @@||smtp.office365.com^$important
+
 ### Microsoft 365 Common and Office Online
 @@||*.aadrm.com^$important
 @@||*.acompli.net^$important
@@ -210,6 +211,7 @@
 @@||www.onedrive.com^$important
 @@||www.outlook.com^$important
 @@||www.sway.com^$important
+
 ### Microsoft Teams
 @@||*.keydelivery.mediaservices.windows.net^$important
 @@||*.lync.com^$important
@@ -225,6 +227,7 @@
 @@||mlccdnprod.azureedge.net^$important
 @@||teams.cloud.microsoft^$important
 @@||teams.microsoft.com^$important
+
 ### SharePoint Online and OneDrive for Business
 @@||*.search.production.apac.trafficmanager.net^$important
 @@||*.search.production.emea.trafficmanager.net^$important
