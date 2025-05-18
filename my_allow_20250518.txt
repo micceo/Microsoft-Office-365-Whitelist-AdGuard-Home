@@ -11,6 +11,9 @@
 @@||ansokan-start.nyckelviksskolan.se^$important
 @@||click.discord.com^$important
 
+# kunders
+@@||byggnet.com^$important
+
 # ikea
 @@||data.logentries.com^$important
 @@||webhook.logentries.com^$important
