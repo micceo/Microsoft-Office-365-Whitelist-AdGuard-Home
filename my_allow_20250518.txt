@@ -33,6 +33,9 @@
 # urlp.sfbassets.com
 # skypemaprdsitus.trafficmanager.net
 
+### -----------------------
+### required TRUE
+
 ### Exchange Online
 @@||*.mail.protection.outlook.com^$important
 @@||*.mx.microsoft^$important
@@ -42,16 +45,11 @@
 @@||outlook.cloud.microsoft^$important
 @@||outlook.office.com^$important
 @@||outlook.office365.com^$important
-@@||smtp.office365.com^$important
 
 ### Microsoft 365 Common and Office Online
 @@||*.aadrm.com^$important
-@@||*.acompli.net^$important
 @@||*.activity.windows.com^$important
-@@||*.appex.bing.com^$important
-@@||*.appex-rf.msn.com^$important
 @@||*.aria.microsoft.com^$important
-@@||*.assets-yammer.com^$important
 @@||*.auth.microsoft.com^$important
 @@||*.azure-apim.net^$important
 @@||*.azurerms.com^$important
@@ -63,10 +61,8 @@
 @@||*.geotrust.com^$important
 @@||*.hip.live.com^$important
 @@||*.informationprotection.azure.com^$important
-@@||*.microsoft.com^$important
 @@||*.microsoftonline.com^$important
 @@||*.microsoftonline-p.com^$important
-@@||*.microsoftusercontent.com^$important
 @@||*.msauth.net^$important
 @@||*.msauthimages.net^$important
 @@||*.msecnd.net^$important
@@ -74,7 +70,6 @@
 @@||*.msftauthimages.net^$important
 @@||*.msftidentity.com^$important
 @@||*.msidentity.com^$important
-@@||*.msocdn.com^$important
 @@||*.o365weve.com^$important
 @@||*.office.com^$important
 @@||*.office.net^$important
@@ -83,8 +78,6 @@
 @@||*.omniroot.com^$important
 @@||*.onenote.com^$important
 @@||*.online.office.com^$important
-@@||*.onmicrosoft.com^$important
-@@||*.outlookmobile.com^$important
 @@||*.phonefactor.net^$important
 @@||*.portal.cloudappsecurity.com^$important
 @@||*.powerapps.com^$important
@@ -92,19 +85,14 @@
 @@||*.protection.office.com^$important
 @@||*.public-trust.com^$important
 @@||*.security.microsoft.com^$important
-@@||*.sharepointonline.com^$important
 @@||*.static.microsoft^$important
 @@||*.symcb.com^$important
 @@||*.symcd.com^$important
 @@||*.usercontent.microsoft^$important
 @@||*.verisign.com^$important
 @@||*.verisign.net^$important
-@@||*.virtualearth.net^$important
-@@||*.yammer.com^$important
-@@||*.yammerusercontent.com^$important
 @@||*cdn.onenote.net^$important
 @@||account.activedirectory.windowsazure.com^$important
-@@||account.live.com^$important
 @@||accounts.accesscontrol.windows.net^$important
 @@||activation.sls.microsoft.com^$important
 @@||activity.windows.com^$important
@@ -119,9 +107,6 @@
 @@||auth.gfx.ms^$important
 @@||autologon.microsoftazuread-sso.com^$important
 @@||becws.microsoftonline.com^$important
-@@||c.bing.com^$important
-@@||c.bing.net^$important
-@@||c.live.com^$important
 @@||c1.microsoft.com^$important
 @@||cacerts.digicert.com^$important
 @@||ccs.login.microsoftonline.com^$important
@@ -137,37 +122,28 @@
 @@||crl.microsoft.com^$important
 @@||crl3.digicert.com^$important
 @@||crl4.digicert.com^$important
-@@||d.docs.live.net^$important
-@@||dc.services.visualstudio.com^$important
 @@||defender.microsoft.com^$important
 @@||device.login.microsoftonline.com^$important
 @@||dgps.support.microsoft.com^$important
-@@||docs.live.net^$important
 @@||docs.microsoft.com^$important
 @@||ecn.dev.virtualearth.net^$important
 @@||enterpriseregistration.windows.net^$important
-@@||eus-www.sway-cdn.com^$important
-@@||eus-www.sway-extensions.com^$important
 @@||go.microsoft.com^$important
 @@||graph.microsoft.com^$important
 @@||graph.windows.net^$important
 @@||informationprotection.hosting.portal.azure.net^$important
 @@||isrg.trustid.ocsp.identrust.com^$important
-@@||login.live.com^$important
 @@||login.microsoft.com^$important
 @@||login.microsoftonline.com^$important
 @@||login.microsoftonline-p.com^$important
 @@||login.windows.net^$important
-@@||login.windows-ppe.net^$important
 @@||logincert.microsoftonline.com^$important
 @@||loginex.microsoftonline.com^$important
 @@||login-us.microsoftonline.com^$important
-@@||mem.gfx.ms^$important
 @@||mscrl.microsoft.com^$important
 @@||msdn.microsoft.com^$important
 @@||nexus.microsoftonline-p.com^$important
 @@||o15.officeredir.microsoft.com^$important
-@@||ocos-office365-s2s.msedge.net^$important
 @@||ocsp.digicert.com^$important
 @@||ocsp.globalsign.com^$important
 @@||ocsp.msocsp.com^$important
@@ -181,10 +157,8 @@
 @@||officeclient.microsoft.com^$important
 @@||officepreviewredir.microsoft.com^$important
 @@||officeredir.microsoft.com^$important
-@@||officespeech.platform.bing.com^$important
 @@||oneocsp.microsoft.com^$important
 @@||otelrules.azureedge.net^$important
-@@||partnerservices.getmicrosoftkey.com^$important
 @@||passwordreset.microsoftonline.com^$important
 @@||platform.linkedin.com^$important
 @@||prod.msocdn.com^$important
@@ -195,22 +169,12 @@
 @@||secure.globalsign.com^$important
 @@||security.microsoft.com^$important
 @@||shellprod.msocdn.com^$important
-@@||signup.live.com^$important
-@@||staffhub.ms^$important
 @@||support.microsoft.com^$important
-@@||sway.com^$important
 @@||technet.microsoft.com^$important
-@@||tse1.mm.bing.net^$important
-@@||wus-www.sway-cdn.com^$important
-@@||wus-www.sway-extensions.com^$important
-@@||www.acompli.com^$important
-@@||www.bing.com^$important
 @@||www.digicert.com^$important
 @@||www.microsoft.com^$important
 @@||www.microsoft365.com^$important
 @@||www.onedrive.com^$important
-@@||www.outlook.com^$important
-@@||www.sway.com^$important
 
 ### Microsoft Teams
 @@||*.keydelivery.mediaservices.windows.net^$important
@@ -219,8 +183,6 @@
 @@||*.streaming.mediaservices.windows.net^$important
 @@||*.teams.cloud.microsoft^$important
 @@||*.teams.microsoft.com^$important
-@@||*.users.storage.live.com^$important
-@@||adl.windows.com^$important
 @@||aka.ms^$important
 @@||compass-ssl.microsoft.com^$important
 @@||join.secure.skypeassets.com^$important
@@ -229,9 +191,6 @@
 @@||teams.microsoft.com^$important
 
 ### SharePoint Online and OneDrive for Business
-@@||*.search.production.apac.trafficmanager.net^$important
-@@||*.search.production.emea.trafficmanager.net^$important
-@@||*.search.production.us.trafficmanager.net^$important
 @@||*.sharepoint.com^$important
 @@||*.sharepointonline.com^$important
 @@||*.svc.ms^$important
@@ -241,5 +200,62 @@
 @@||officeclient.microsoft.com^$important
 @@||oneclient.sfx.ms^$important
 @@||spoprod-a.akamaihd.net^$important
+
+### -----------------------
+### required FALSE
+
+### Exchange Online
+@@||outlook.office365.com^$important
+@@||smtp.office365.com^$important
+
+### Microsoft 365 Common and Office Online
+@@||*.acompli.net^$important
+@@||*.appex.bing.com^$important
+@@||*.appex-rf.msn.com^$important
+@@||*.assets-yammer.com^$important
+@@||*.microsoft.com^$important
+@@||*.microsoftusercontent.com^$important
+@@||*.msocdn.com^$important
+@@||*.onmicrosoft.com^$important
+@@||*.outlookmobile.com^$important
+@@||*.sharepointonline.com^$important
+@@||*.virtualearth.net^$important
+@@||*.yammer.com^$important
+@@||*.yammerusercontent.com^$important
+@@||account.live.com^$important
+@@||auth.gfx.ms^$important
+@@||c.bing.com^$important
+@@||c.bing.net^$important
+@@||c.live.com^$important
+@@||d.docs.live.net^$important
+@@||dc.services.visualstudio.com^$important
+@@||docs.live.net^$important
+@@||eus-www.sway-cdn.com^$important
+@@||eus-www.sway-extensions.com^$important
+@@||login.live.com^$important
+@@||login.windows-ppe.net^$important
+@@||mem.gfx.ms^$important
+@@||ocos-office365-s2s.msedge.net^$important
+@@||officespeech.platform.bing.com^$important
+@@||partnerservices.getmicrosoftkey.com^$important
+@@||signup.live.com^$important
+@@||staffhub.ms^$important
+@@||sway.com^$important
+@@||tse1.mm.bing.net^$important
+@@||wus-www.sway-cdn.com^$important
+@@||wus-www.sway-extensions.com^$important
+@@||www.acompli.com^$important
+@@||www.bing.com^$important
+@@||www.outlook.com^$important
+@@||www.sway.com^$important
+
+### Microsoft Teams
+@@||*.users.storage.live.com^$important
+@@||adl.windows.com^$important
+
+### SharePoint Online and OneDrive for Business
+@@||*.search.production.apac.trafficmanager.net^$important
+@@||*.search.production.emea.trafficmanager.net^$important
+@@||*.search.production.us.trafficmanager.net^$important
 @@||ssw.live.com^$important
 @@||storage.live.com^$important
